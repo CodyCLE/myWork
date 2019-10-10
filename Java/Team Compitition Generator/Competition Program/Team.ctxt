@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Team
+comment1.params=n\ m1\ m2\ m3\ m4
+comment1.target=Team(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=newComp
+comment10.target=void\ setCompetition2(Competition)
+comment11.params=m1\ m2\ m3\ m4
+comment11.target=void\ setTeam(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=other
+comment2.target=Team(Team)
+comment3.params=
+comment3.target=java.lang.String\ getTeamName()
+comment4.params=
+comment4.target=java.lang.String\ getName1()
+comment5.params=
+comment5.target=java.lang.String\ getName2()
+comment6.params=
+comment6.target=java.lang.String\ getName3()
+comment7.params=
+comment7.target=java.lang.String\ getName4()
+comment8.params=
+comment8.target=void\ printInfo()
+comment9.params=newComp
+comment9.target=void\ setCompetition1(Competition)
+numComments=12
