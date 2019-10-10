@@ -1,5 +1,5 @@
 # Description for C# Programs
-  All of these programs were created using Visual Studios.
+  - All of the programs listed were created using Visual Studios 2017.
 
   ### 1. Addition Calulcator
   Basic program that adds 2 numbers together and outputs the result via command prompt.
