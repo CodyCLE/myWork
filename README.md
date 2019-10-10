@@ -4,9 +4,9 @@
   
   ### Software Used
   **Java Software**
-    - Netbeans
-    - BlueJ 
-    - IntelliJ
+  - Netbeans
+  - BlueJ 
+  - IntelliJ
     
   **C# Software**
-    - Visual Studios
+  - Visual Studios
